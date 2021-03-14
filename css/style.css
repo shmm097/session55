@@ -13,7 +13,8 @@ ol, ul{
     list-style:none; 
 }
 .wrapper{
-    width: 1140px; 
+    max-width: 1140px; 
+    width: 96%; 
     margin: 0 auto; 
 }
 /* ========== common css ends here ==========*/
